@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "trainingName": "Cardio Workout",
+    "trainingDate": "2023-10-30",
+    "trainingDuration": 60
+  },
+  {
+    "id": 2,
+    "trainingName": "Strength Training",
+    "trainingDate": "2023-10-31",
+    "trainingDuration": 45
+  }
+]

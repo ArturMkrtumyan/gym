@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "username": "johndoe",
+    "password": "password123",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "username": "janesmith",
+    "password": "securepass",
+    "isActive": true
+  }
+]
